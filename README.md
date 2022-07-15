@@ -1,5 +1,5 @@
 # gerenciamento
-Um sistema criado em delphi na VCL para agendar e gerenciar a empresa
+Um sistema criado com o Delphi Community na VCL para agendar e gerenciar a empresa
 <img src="/imagens/Capturar.PNG" alt="login"/>
 <img src="/imagens/Capturar2.PNG" alt="menu"/>
 <img src="/imagens/Capturar1.PNG" alt="config"/>
