@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/10 10:49:50.000.082,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/10 13:15:26.000.212,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 08:45:07.000.734,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 08:53:39.000.139,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Administrador\Documents\agendaSWH\Fontes\Unit_principal.pas</Transaction>
+    <Transaction>2022/05/17 08:53:39.000.139,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Administrador\Documents\agendaSWH\Fontes\Unit_principal.dfm</Transaction>
+    <Transaction>2022/05/17 08:54:21.000.572,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Administrador\Documents\agendaSWH\agendaSWH.dproj</Transaction>
+    <Transaction>2022/05/17 09:19:01.000.700,C:\Users\Administrador\Documents\agendaSWH\Fontes\Unit_principal.dfm=C:\Users\Administrador\Documents\agendaSWH\Fontes\UPrincipal.dfm</Transaction>
+    <Transaction>2022/05/17 09:19:01.000.700,C:\Users\Administrador\Documents\agendaSWH\Fontes\Unit_principal.pas=C:\Users\Administrador\Documents\agendaSWH\Fontes\UPrincipal.pas</Transaction>
+    <Transaction>2022/05/17 09:19:29.000.708,=C:\Users\Administrador\Documents\agendaSWH\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 09:36:39.000.639,C:\Users\Administrador\Documents\agendaSWH\Unit1.dfm=C:\Users\Administrador\Documents\agendaSWH\Fontes\UDados.dfm</Transaction>
+    <Transaction>2022/05/17 09:36:39.000.639,C:\Users\Administrador\Documents\agendaSWH\Unit1.pas=C:\Users\Administrador\Documents\agendaSWH\Fontes\UDados.pas</Transaction>
+    <Transaction>2022/05/17 09:49:23.000.252,=C:\Users\Administrador\Documents\agendaSWH\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 13:38:45.000.839,C:\Users\Administrador\Documents\agendaSWH\Unit1.dfm=C:\Users\Administrador\Documents\agendaSWH\Fontes\UnitLogin.dfm</Transaction>
+    <Transaction>2022/05/17 13:38:45.000.839,C:\Users\Administrador\Documents\agendaSWH\Unit1.pas=C:\Users\Administrador\Documents\agendaSWH\Fontes\UnitLogin.pas</Transaction>
+    <Transaction>2022/05/17 15:32:14.000.100,=C:\Users\Administrador\Documents\agendaSWH\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 15:36:15.000.549,C:\Users\Administrador\Documents\agendaSWH\Unit1.pas=C:\Users\Administrador\Documents\agendaSWH\Fontes\UConfigServer.pas</Transaction>
+    <Transaction>2022/05/17 15:36:15.000.549,C:\Users\Administrador\Documents\agendaSWH\Unit1.dfm=C:\Users\Administrador\Documents\agendaSWH\Fontes\UConfigServer.dfm</Transaction>
+    <Transaction>2022/05/17 17:27:01.000.954,=C:\Users\Administrador\Documents\agendaSWH\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 17:51:22.000.530,C:\Users\Administrador\Documents\agendaSWH\Unit1.pas=C:\Users\Administrador\Documents\agendaSWH\Fontes\UMenssager.pas</Transaction>
+    <Transaction>2022/05/17 17:51:22.000.530,C:\Users\Administrador\Documents\agendaSWH\Unit1.dfm=C:\Users\Administrador\Documents\agendaSWH\Fontes\UMenssager.dfm</Transaction>
+    <Transaction>2022/05/18 10:28:55.000.465,=C:\Users\Administrador\Documents\agendaSWH\Unit1.pas</Transaction>
+    <Transaction>2022/05/18 10:30:35.000.235,C:\Users\Administrador\Documents\agendaSWH\Unit1.pas=C:\Users\Administrador\Documents\agendaSWH\Fontes\UFuncoes.pas</Transaction>
+    <Transaction>2022/05/18 13:33:40.000.512,=C:\Users\Administrador\Documents\agendaSWH\Unit1.pas</Transaction>
+    <Transaction>2022/05/18 13:34:04.000.436,C:\Users\Administrador\Documents\agendaSWH\Fontes\Classe.conexao.pas=C:\Users\Administrador\Documents\agendaSWH\Unit1.pas</Transaction>
+    <Transaction>2022/05/18 15:03:42.000.081,C:\Users\Administrador\Documents\agendaSWH\Fontes\Classeconexao.pas=C:\Users\Administrador\Documents\agendaSWH\Fontes\Classe.conexao.pas</Transaction>
+    <Transaction>2022/05/18 15:05:12.000.247,C:\Users\Administrador\Documents\agendaSWH\Fontes\Classe.conexao.pas=C:\Users\Administrador\Documents\agendaSWH\Fontes\Classeconexao.pas</Transaction>
+    <Transaction>2022/05/19 15:02:27.000.077,=C:\Users\Administrador\Documents\agendaSWH\Unit1.pas</Transaction>
+    <Transaction>2022/05/19 16:41:01.000.453,C:\Users\Administrador\Documents\agendaSWH\Fontes\UAgendamento.dfm=C:\Users\Administrador\Documents\agendaSWH\Unit1.dfm</Transaction>
+    <Transaction>2022/05/19 16:41:01.000.452,C:\Users\Administrador\Documents\agendaSWH\Fontes\UAgendamento.pas=C:\Users\Administrador\Documents\agendaSWH\Unit1.pas</Transaction>
+    <Transaction>2022/05/20 08:56:16.000.873,=C:\Users\Administrador\Documents\agendaSWH\Unit1.pas</Transaction>
+    <Transaction>2022/05/20 08:56:47.000.372,C:\Users\Administrador\Documents\agendaSWH\Unit1.pas=C:\Users\Administrador\Documents\agendaSWH\Fontes\UProfissionais.pas</Transaction>
+    <Transaction>2022/05/20 08:56:47.000.372,C:\Users\Administrador\Documents\agendaSWH\Unit1.dfm=C:\Users\Administrador\Documents\agendaSWH\Fontes\UProfissionais.dfm</Transaction>
+    <Transaction>2022/05/20 09:34:41.000.209,=C:\Users\Administrador\Documents\agendaSWH\Unit1.pas</Transaction>
+    <Transaction>2022/05/20 09:35:16.000.579,C:\Users\Administrador\Documents\agendaSWH\Unit1.pas=C:\Users\Administrador\Documents\agendaSWH\Fontes\Classe.profissionais.pas</Transaction>
+  </Transactions>
+</BorlandProject>
